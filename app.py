@@ -6,9 +6,9 @@ import datetime
 import os
 
 # 1. Load Model, Scaler, dan Feature Columns yang sudah disimpan
-model = joblib.load("random_forest_model.joblib")
-scaler = joblib.load("scaler.joblib")
-feature_columns = joblib.load("feature_columns.joblib")
+model = joblib.load("prediksi penipuan kartu kredit/random_forest_model.joblib")
+scaler = joblib.load("prediksi penipuan kartu kredit/scaler.joblib")
+feature_columns = joblib.load("prediksi penipuan kartu kredit/feature_columns.joblib")
 
 st.set_page_config(page_title="Fraud Detection Dashboard", page_icon="💳", layout="wide")
 
