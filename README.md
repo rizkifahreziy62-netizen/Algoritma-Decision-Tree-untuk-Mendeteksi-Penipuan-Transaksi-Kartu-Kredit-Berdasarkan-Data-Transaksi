@@ -102,4 +102,26 @@ MAE dan MSE memiliki nilai ideal mendekati 0 karena keduanya mengukur kesalahan 
 Pemilihan metrik evaluasi harus mempertimbangkan jenis permasalahan, karakteristik dataset, dan tujuan penelitian.
 
 ---
-**Proyek Machine Learning — Evaluasi Metrik Model**
+**Proyek Machine Learning — Evaluasi Metrik Model
+
+# Dataset Machine Learning
+
+Repository ini berisi 3 dataset yang digunakan untuk pembelajaran dan pengembangan Machine Learning.
+
+ 1. Rose Leaves Disease Detection
+Dataset gambar daun mawar untuk mendeteksi dan mengklasifikasikan penyakit pada daun.
+
+Sumber: https://www.kaggle.com/datasets/warcoder/rose-leaves-disease-detection/data
+
+ 2. Wine Quality Dataset
+Dataset untuk mengklasifikasikan kualitas wine berdasarkan kandungan dan karakteristiknya.
+
+Sumber: https://www.kaggle.com/datasets/taweilo/wine-quality-dataset-balanced-classification
+
+ 3. Crop Diseases Classification
+Dataset gambar tanaman untuk mengenali dan mengklasifikasikan berbagai penyakit tanaman.
+
+Sumber: https://www.kaggle.com/datasets/mexwell/crop-diseases-classification
+
+ Tujuan
+Dataset ini digunakan untuk latihan, penelitian, dan pengembangan model Machine Learning, khususnya klasifikasi data dan gambar.
